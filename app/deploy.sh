@@ -1,0 +1,1 @@
+gcloud app deploy --quiet --no-stop-previous-version --no-promote --version 1.0.0
